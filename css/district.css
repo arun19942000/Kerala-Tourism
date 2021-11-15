@@ -1,0 +1,16 @@
+/* *{
+    margin: 0px;
+    padding: 0px;
+} */
+body{
+    margin: 4em;
+}
+span{
+    font-weight:bold;
+}
+h1{
+    background-color: #55ACEE;
+}
+a{
+    text-decoration: none;
+}

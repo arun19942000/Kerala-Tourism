@@ -1,0 +1,84 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.nav-link{
+    font-weight: bold;
+}
+img{
+    height: 20px;
+    width: 20px;
+
+}
+ 
+ .carousel-item img{ 
+    height: 480px;
+ }
+
+.fab{ 
+    padding-top:5px;
+    font-size: 20px; 
+    width: 40px;
+    height: 30px;
+    text-align: center; 
+    text-decoration: none; 
+}
+/* .marg{  */
+    /* margin: 20px;  */
+    /* padding-top: 20px; */
+    
+ /* }  */
+  
+  /* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+.fa-facebook-square {
+    background: #3B5998;
+    color: white;
+}
+  
+  /* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
+  .fa-youtube {
+    background:#FF0000;
+    color: white;
+}
+.fa-whatsapp {
+    background: #25D366 ;
+    color: white;
+}
+.icon{
+    /* margin-left:35em; */
+    text-align: center;
+
+}
+ .navbar-nav  li {
+  margin-left:30px;
+  margin-right:30px;
+}
+.card-img-top {
+    height: 100px;
+    width: 100px;
+}
+h2{
+    color:#55ACEE;
+    text-align: center;
+    padding-top: 10px;
+}
+
+
+
+
+
+  
+ 
+
+
